@@ -20,7 +20,7 @@ def heart(k):
     if Button(command=clicked):
         return 15*math.sin(k)**3
 
-def heartb(k):#Credit to @heryyyy on tiktok for the heart code
+def heartb(k):
     if Button(command=clicked):
         return 12*math.cos(k)-5*\
         math.cos(2*k)-2*\
